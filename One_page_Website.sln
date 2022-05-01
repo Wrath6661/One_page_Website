@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "imgs", "imgs", "{BD8DC552-7B20-481F-B93A-DFE20C55DFB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Thumb", "Thumb", "{8BC52BA8-4FFB-4F1E-8806-9045A67CD449}"
+	ProjectSection(SolutionItems) = preProject
+		One_page_website\imgs\Thumb\Amd_Cpu.jpg = One_page_website\imgs\Thumb\Amd_Cpu.jpg
+		One_page_website\imgs\Thumb\amd_gpu.png = One_page_website\imgs\Thumb\amd_gpu.png
+		One_page_website\imgs\Thumb\AMD_Logo.jpg = One_page_website\imgs\Thumb\AMD_Logo.jpg
+		One_page_website\imgs\Thumb\Intel_Cpu.jpeg = One_page_website\imgs\Thumb\Intel_Cpu.jpeg
+		One_page_website\imgs\Thumb\Intel_Logo.png = One_page_website\imgs\Thumb\Intel_Logo.png
+		One_page_website\imgs\Thumb\Intel_xeon.jpg = One_page_website\imgs\Thumb\Intel_xeon.jpg
+		One_page_website\imgs\Thumb\Nvidia_Gpu.jpg = One_page_website\imgs\Thumb\Nvidia_Gpu.jpg
+		One_page_website\imgs\Thumb\Nvidia_Logo.png = One_page_website\imgs\Thumb\Nvidia_Logo.png
+		One_page_website\imgs\Thumb\Nvidia_Physx.jpg = One_page_website\imgs\Thumb\Nvidia_Physx.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{234456B6-3D3A-431C-A238-9A2A2FCD5B3C}"
+	ProjectSection(SolutionItems) = preProject
+		One_page_website\css\Contactform.css = One_page_website\css\Contactform.css
+		One_page_website\css\intel.css = One_page_website\css\intel.css
+		One_page_website\css\Navbar.css = One_page_website\css\Navbar.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C726CDEB-FFAC-4F71-B41D-EBABB88A0C57}"
+	ProjectSection(SolutionItems) = preProject
+		One_page_website\index.html = One_page_website\index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8BC52BA8-4FFB-4F1E-8806-9045A67CD449} = {BD8DC552-7B20-481F-B93A-DFE20C55DFB3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF0D8CF-7C3A-4295-839D-25A31C98A1A2}
+	EndGlobalSection
+EndGlobal
